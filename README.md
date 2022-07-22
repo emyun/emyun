@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @emyun
-- 👀 I’m interested in Front-End Development
+- 👋 Hi, I’m Emily!
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML, CSS, and Javascript through the Odin Project!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through email: eyun0326@gmail.com
 
 <!---
