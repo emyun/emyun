@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emily!
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML, CSS, and Javascript through the Odin Project!
+- 👀 I’m interested in Front-End Web Development
+- 🌱 I’m currently taking Harvard's CS50 Introduction to Computer Science Course!
 - 📫 How to reach me through email: eyun0326@gmail.com
 
 <!---
